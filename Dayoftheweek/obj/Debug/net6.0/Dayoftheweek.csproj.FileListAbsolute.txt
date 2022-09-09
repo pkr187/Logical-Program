@@ -1,0 +1,15 @@
+C:\HELLo\Dayoftheweek\bin\Debug\net6.0\Dayoftheweek.exe
+C:\HELLo\Dayoftheweek\bin\Debug\net6.0\Dayoftheweek.deps.json
+C:\HELLo\Dayoftheweek\bin\Debug\net6.0\Dayoftheweek.runtimeconfig.json
+C:\HELLo\Dayoftheweek\bin\Debug\net6.0\Dayoftheweek.dll
+C:\HELLo\Dayoftheweek\bin\Debug\net6.0\Dayoftheweek.pdb
+C:\HELLo\Dayoftheweek\obj\Debug\net6.0\Dayoftheweek.csproj.AssemblyReference.cache
+C:\HELLo\Dayoftheweek\obj\Debug\net6.0\Dayoftheweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\HELLo\Dayoftheweek\obj\Debug\net6.0\Dayoftheweek.AssemblyInfoInputs.cache
+C:\HELLo\Dayoftheweek\obj\Debug\net6.0\Dayoftheweek.AssemblyInfo.cs
+C:\HELLo\Dayoftheweek\obj\Debug\net6.0\Dayoftheweek.csproj.CoreCompileInputs.cache
+C:\HELLo\Dayoftheweek\obj\Debug\net6.0\Dayoftheweek.dll
+C:\HELLo\Dayoftheweek\obj\Debug\net6.0\refint\Dayoftheweek.dll
+C:\HELLo\Dayoftheweek\obj\Debug\net6.0\Dayoftheweek.pdb
+C:\HELLo\Dayoftheweek\obj\Debug\net6.0\Dayoftheweek.genruntimeconfig.cache
+C:\HELLo\Dayoftheweek\obj\Debug\net6.0\ref\Dayoftheweek.dll
