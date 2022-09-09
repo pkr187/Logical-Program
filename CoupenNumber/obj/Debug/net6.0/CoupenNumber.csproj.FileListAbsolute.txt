@@ -1,0 +1,15 @@
+C:\HELLo\CoupenNumber\bin\Debug\net6.0\CoupenNumber.exe
+C:\HELLo\CoupenNumber\bin\Debug\net6.0\CoupenNumber.deps.json
+C:\HELLo\CoupenNumber\bin\Debug\net6.0\CoupenNumber.runtimeconfig.json
+C:\HELLo\CoupenNumber\bin\Debug\net6.0\CoupenNumber.dll
+C:\HELLo\CoupenNumber\bin\Debug\net6.0\CoupenNumber.pdb
+C:\HELLo\CoupenNumber\obj\Debug\net6.0\CoupenNumber.csproj.AssemblyReference.cache
+C:\HELLo\CoupenNumber\obj\Debug\net6.0\CoupenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\HELLo\CoupenNumber\obj\Debug\net6.0\CoupenNumber.AssemblyInfoInputs.cache
+C:\HELLo\CoupenNumber\obj\Debug\net6.0\CoupenNumber.AssemblyInfo.cs
+C:\HELLo\CoupenNumber\obj\Debug\net6.0\CoupenNumber.csproj.CoreCompileInputs.cache
+C:\HELLo\CoupenNumber\obj\Debug\net6.0\CoupenNumber.dll
+C:\HELLo\CoupenNumber\obj\Debug\net6.0\refint\CoupenNumber.dll
+C:\HELLo\CoupenNumber\obj\Debug\net6.0\CoupenNumber.pdb
+C:\HELLo\CoupenNumber\obj\Debug\net6.0\CoupenNumber.genruntimeconfig.cache
+C:\HELLo\CoupenNumber\obj\Debug\net6.0\ref\CoupenNumber.dll
