@@ -1,0 +1,15 @@
+C:\HELLo\PrimeNumber\bin\Debug\net6.0\PrimeNumber.exe
+C:\HELLo\PrimeNumber\bin\Debug\net6.0\PrimeNumber.deps.json
+C:\HELLo\PrimeNumber\bin\Debug\net6.0\PrimeNumber.runtimeconfig.json
+C:\HELLo\PrimeNumber\bin\Debug\net6.0\PrimeNumber.dll
+C:\HELLo\PrimeNumber\bin\Debug\net6.0\PrimeNumber.pdb
+C:\HELLo\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.AssemblyReference.cache
+C:\HELLo\PrimeNumber\obj\Debug\net6.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\HELLo\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\HELLo\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfo.cs
+C:\HELLo\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\HELLo\PrimeNumber\obj\Debug\net6.0\PrimeNumber.dll
+C:\HELLo\PrimeNumber\obj\Debug\net6.0\refint\PrimeNumber.dll
+C:\HELLo\PrimeNumber\obj\Debug\net6.0\PrimeNumber.pdb
+C:\HELLo\PrimeNumber\obj\Debug\net6.0\PrimeNumber.genruntimeconfig.cache
+C:\HELLo\PrimeNumber\obj\Debug\net6.0\ref\PrimeNumber.dll
